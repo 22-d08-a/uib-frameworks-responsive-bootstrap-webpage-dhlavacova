@@ -13,5 +13,9 @@
     "type": "git",
     "url": "https://github.com/DigitalCareerInstitute/UIB-frameworks-responsive-bootstrap-webpage",
     "id": 315927802
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.57.1"
   }
 }
